@@ -1,0 +1,17 @@
+.roy{
+        margin-left: 230px;
+        margin-top: -318px;
+    }
+    .ros{
+        margin-top: -318px;
+        margin-left: 510px;
+    } 
+    .dark-mode {
+      background-color: #121212;
+      color: #f1f1f1;
+    }
+    .toggle-btn{
+      text-align: end;
+      position: sticky;
+      top: 100px;
+    }
